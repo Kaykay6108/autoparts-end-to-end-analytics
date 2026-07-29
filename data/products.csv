@@ -1,0 +1,73 @@
+﻿ProductID,ProductName,Category,Brand,StandardCost,ListPrice
+1001,Brake Pad Set 1,Brakes,Motora,117.98,161.63
+1002,Brake Pad Set 2,Brakes,Apex,50.12,73.26
+1003,Brake Pad Set 3,Brakes,Apex,124.39,256.71
+1004,Brake Disc 1,Brakes,Apex,109.56,150.69
+1005,Brake Disc 2,Brakes,Apex,45.61,80.01
+1006,Brake Disc 3,Brakes,RoadPro,104.53,200.99
+1007,Brake Fluid 1,Brakes,Autonix,101.73,155.28
+1008,Brake Fluid 2,Brakes,NordDrive,55.85,114.24
+1009,Brake Fluid 3,Brakes,NordDrive,128.08,207.77
+1010,Brake Caliper 1,Brakes,Apex,45.03,88.29
+1011,Brake Caliper 2,Brakes,Motora,23.95,34.19
+1012,Brake Caliper 3,Brakes,RoadPro,111.84,223.2
+1013,LED Headlight 1,Lighting,Velox,87.02,126.17
+1014,LED Headlight 2,Lighting,RoadPro,21.55,34.15
+1015,LED Headlight 3,Lighting,Autonix,114.39,233.28
+1016,Tail Light 1,Lighting,RoadPro,41.07,57.73
+1017,Tail Light 2,Lighting,Apex,47.2,74.65
+1018,Tail Light 3,Lighting,Velox,155.11,316.92
+1019,Fog Light 1,Lighting,Motora,55.81,103.73
+1020,Fog Light 2,Lighting,RoadPro,35.98,58.8
+1021,Fog Light 3,Lighting,RoadPro,53.92,113.2
+1022,Interior Light Kit 1,Lighting,Autonix,20.28,37.68
+1023,Interior Light Kit 2,Lighting,Velox,133.41,197.54
+1024,Interior Light Kit 3,Lighting,RoadPro,54.43,113.78
+1025,Parking Sensor 1,Electronics,Apex,103.8,196.98
+1026,Parking Sensor 2,Electronics,Motora,47.4,65.21
+1027,Parking Sensor 3,Electronics,Autonix,77.0,108.03
+1028,Dash Camera 1,Electronics,RoadPro,158.74,254.26
+1029,Dash Camera 2,Electronics,RoadPro,93.87,193.16
+1030,Dash Camera 3,Electronics,NordDrive,86.92,135.76
+1031,Battery Charger 1,Electronics,RoadPro,136.14,242.49
+1032,Battery Charger 2,Electronics,Velox,108.55,224.51
+1033,Battery Charger 3,Electronics,NordDrive,70.26,150.91
+1034,OBD Scanner 1,Electronics,Apex,95.64,136.07
+1035,OBD Scanner 2,Electronics,NordDrive,156.11,229.84
+1036,OBD Scanner 3,Electronics,Apex,144.24,243.44
+1037,Engine Oil 1,Maintenance,Velox,74.18,135.51
+1038,Engine Oil 2,Maintenance,Apex,99.01,210.58
+1039,Engine Oil 3,Maintenance,Autonix,125.01,180.22
+1040,Oil Filter 1,Maintenance,Motora,137.15,269.48
+1041,Oil Filter 2,Maintenance,Velox,27.19,46.16
+1042,Oil Filter 3,Maintenance,RoadPro,8.56,16.5
+1043,Air Filter 1,Maintenance,NordDrive,53.3,93.3
+1044,Air Filter 2,Maintenance,RoadPro,95.32,136.8
+1045,Air Filter 3,Maintenance,Autonix,59.33,110.42
+1046,Wiper Blade 1,Maintenance,NordDrive,42.21,69.61
+1047,Wiper Blade 2,Maintenance,Autonix,100.77,198.81
+1048,Wiper Blade 3,Maintenance,Velox,165.98,303.6
+1049,Floor Mat Set 1,Interior,Motora,11.35,23.76
+1050,Floor Mat Set 2,Interior,Autonix,49.19,75.89
+1051,Floor Mat Set 3,Interior,Velox,170.88,242.4
+1052,Seat Cover 1,Interior,Autonix,148.36,316.36
+1053,Seat Cover 2,Interior,Velox,139.72,202.97
+1054,Seat Cover 3,Interior,Autonix,170.86,253.23
+1055,Phone Holder 1,Interior,NordDrive,158.06,266.89
+1056,Phone Holder 2,Interior,RoadPro,167.77,327.86
+1057,Phone Holder 3,Interior,RoadPro,42.6,68.13
+1058,Trunk Organizer 1,Interior,Autonix,119.78,203.68
+1059,Trunk Organizer 2,Interior,Apex,85.66,132.63
+1060,Trunk Organizer 3,Interior,NordDrive,66.15,120.44
+1061,Alloy Wheel 1,Wheels,RoadPro,109.21,148.06
+1062,Alloy Wheel 2,Wheels,Apex,116.55,178.69
+1063,Alloy Wheel 3,Wheels,NordDrive,155.86,219.25
+1064,Wheel Bolt Set 1,Wheels,Autonix,55.9,97.17
+1065,Wheel Bolt Set 2,Wheels,Autonix,30.76,64.55
+1066,Wheel Bolt Set 3,Wheels,Velox,107.11,165.42
+1067,Tyre Pressure Sensor 1,Wheels,Apex,146.89,220.68
+1068,Tyre Pressure Sensor 2,Wheels,Velox,121.35,198.22
+1069,Tyre Pressure Sensor 3,Wheels,RoadPro,88.33,170.76
+1070,Wheel Spacer 1,Wheels,Apex,120.39,224.76
+1071,Wheel Spacer 2,Wheels,Apex,77.25,125.26
+1072,Wheel Spacer 3,Wheels,Velox,50.77,76.27

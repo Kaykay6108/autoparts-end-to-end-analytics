@@ -1,0 +1,26 @@
+﻿File,Column,Meaning,Suggested SQL Type
+orders.csv,OrderID,Unique order line identifier,INT
+orders.csv,OrderDate,Date of order,DATE
+orders.csv,CustomerID,Customer key,INT
+orders.csv,ProductID,Product key,INT
+orders.csv,Quantity,Units ordered,INT
+orders.csv,UnitPrice,Selling price per unit in EUR,"DECIMAL(10,2)"
+orders.csv,DiscountPct,"Discount as decimal, e.g. 0.10 = 10%","DECIMAL(5,2)"
+orders.csv,Region,Sales region,NVARCHAR(20)
+orders.csv,DeliveryDays,Days from order to delivery; blank for cancelled,INT NULL
+orders.csv,OrderStatus,"Completed, Returned, or Cancelled",NVARCHAR(20)
+products.csv,ProductID,Product key,INT
+products.csv,ProductName,Product description,NVARCHAR(100)
+products.csv,Category,Product category,NVARCHAR(50)
+products.csv,Brand,Product brand,NVARCHAR(50)
+products.csv,StandardCost,Estimated unit cost in EUR,"DECIMAL(10,2)"
+products.csv,ListPrice,Reference list price in EUR,"DECIMAL(10,2)"
+customers.csv,CustomerID,Customer key,INT
+customers.csv,CustomerName,Synthetic customer label,NVARCHAR(100)
+customers.csv,CustomerSegment,"Retail, Workshop, or Fleet",NVARCHAR(30)
+customers.csv,Country,Customer country,NVARCHAR(30)
+customers.csv,Region,Customer region,NVARCHAR(20)
+customers.csv,SignupDate,Customer registration date,DATE
+monthly_targets.csv,YearMonth,Target month in YYYY-MM format,CHAR(7)
+monthly_targets.csv,Region,Sales region,NVARCHAR(20)
+monthly_targets.csv,RevenueTarget,Monthly revenue target in EUR,"DECIMAL(12,2)"

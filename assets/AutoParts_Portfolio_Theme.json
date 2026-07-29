@@ -1,0 +1,23 @@
+{
+  "name": "AutoParts Portfolio Blue",
+  "dataColors": [
+    "#2563EB",
+    "#1E3A8A",
+    "#0F766E",
+    "#F59E0B",
+    "#7C3AED",
+    "#64748B",
+    "#16A34A",
+    "#DC2626"
+  ],
+  "good": "#16A34A",
+  "neutral": "#F59E0B",
+  "bad": "#DC2626",
+  "maximum": "#2563EB",
+  "center": "#F59E0B",
+  "minimum": "#DBEAFE",
+  "null": "#94A3B8",
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#2563EB"
+}
